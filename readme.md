@@ -30,8 +30,8 @@
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-- "git clone https://github.com/YadlaMani/Crunch-web-app"
-- "cd Crunch-web-app" 
+- "git clone https://github.com/Rishipreeth03/Crunch"
+- "cd Crunch" 
 - "pip install -r requirements.txt"
 - Add your cloudinary credentials to main.py, auth.py and views.py files.
 - "python main.py" 
@@ -48,24 +48,24 @@
 
 ## Landing Page
 
-![ss1](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage1.png)
+![ss1](https://github.com/Rishipreeth03/Crunch/blob/main/screenshots/LandingPageResponsive.png)
 
-![ss2](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage2.png)
+![ss2](https://github.com/Rishipreeth03/Crunch/blob/main/screenshots/landingPage2.png)
 
 ## Sign Up Page
 
-![ss3](https://github.com/pri1311/crunch/blob/master/screenshots/signUpPage.png)
+![ss3](https://github.com/Rishipreeth03/Crunch/blob/main/screenshots/signUpPage.png)
 
 
 ## Responsive
 
-![ss5](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
+![ss5](https://github.comRishipreeth03/Crunch/blob/main/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/Rishipreeth03/Crunch/blob/main/screenshots/responsiveChatScreen.png)
 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [Mani Yadla](https://github.com/pri1311)
 - [Rishipreeth](https://github.com/poketr)
+- [Mani Yadla](https://github.com/pri1311)
 - [Akash Siripuram](https://github.com/akashsiripuram)
 
 
