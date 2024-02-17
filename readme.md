@@ -59,7 +59,7 @@
 
 ## Responsive
 
-![ss5](https://github.comRishipreeth03/Crunch/blob/main/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/Rishipreeth03/Crunch/blob/main/screenshots/responsiveChatScreen.png)
+ ![ss6](https://github.com/Rishipreeth03/Crunch/blob/main/screenshots/responsiveChatScreen.png)
 
 
 ## ✍️ Authors <a name = "authors"></a>
